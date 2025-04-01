@@ -1,4 +1,6 @@
-﻿using DibujarRectangulosFactory;
+﻿// Clase Rectangulo
+
+using DibujarRectangulosFactory;
 
 public class Rectangulo : Figura
 {
