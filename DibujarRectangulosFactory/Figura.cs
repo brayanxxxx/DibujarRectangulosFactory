@@ -1,4 +1,5 @@
-﻿public abstract class Figura
+﻿//Clase Abstracta
+public abstract class Figura
 {
     public int X { get; set; }
     public int Y { get; set; }
