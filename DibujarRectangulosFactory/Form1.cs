@@ -2,7 +2,7 @@ using System;
 using System.Collections.Generic;
 using System.Drawing;
 using System.Windows.Forms;
-
+//0rganizacion de botones
 namespace DibujarRectangulosFactory 
 {
     public partial class Form1 : Form 

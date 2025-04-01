@@ -1,4 +1,5 @@
-﻿public static class FiguraFactory
+﻿//Clase Factory
+public static class FiguraFactory
 {
     public static Rectangulo CrearRectangulo(int x, int y, Color color)
     {
